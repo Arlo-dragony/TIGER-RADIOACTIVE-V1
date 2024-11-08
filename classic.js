@@ -3117,7 +3117,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝚃ⁱᵍᵉʳ 𝚁ᵃᵈⁱᵒᵃᶜᵗⁱᵛᵉ 𝙱ᵘᵍᵇᵒᵗ ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*⫹⫺яα∂ιοαϲτινє⫹⫺* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
